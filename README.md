@@ -1,6 +1,6 @@
 # Customizable Planner
 
-Have you ever faced the problem of not finding a calendar/planner that meets your needs? So here it is: a customizable planner for your needs. Don't expect too much though, this is just the beginning.
+Have you ever faced the problem of not finding a calendar/planner that meets your needs? So here it is: a printable and customizable planner for your needs. Don't expect too much though, this is just the beginning.
 
 ## Features
 
