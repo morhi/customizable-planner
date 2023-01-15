@@ -24,7 +24,7 @@
       <tbody>
       <tr
         v-for="day in months[month]"
-        :key="day"
+        :key="day.toString()"
         :class="[day.weekday === 6 || day.weekday === 7 ? 'weekend' : '']"
       >
         <td>
