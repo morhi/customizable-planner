@@ -97,7 +97,7 @@ watch(
 .image-container {
   display: block;
   width: 100%;
-  max-width: 100px;
+  max-width: 80px;
   margin: -10px auto 0;
   padding-bottom: 10px;
 }
