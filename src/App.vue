@@ -49,7 +49,7 @@ import PlannerSettings from './PlannerSettings.vue';
 
 const store = useBaseStore();
 const locale = ref('de');
-const year = ref(2023);
+const year = ref(2024);
 const months = ref<{ [key: number]: Array<DateTime> }>({});
 
 watch(
